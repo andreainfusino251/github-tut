@@ -1,2 +1,2 @@
 # github-tut
-hello
+hello, test repository
